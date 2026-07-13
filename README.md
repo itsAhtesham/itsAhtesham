@@ -3,7 +3,7 @@
 Full Stack SDE building scalable backend systems and event-driven architectures.
 
 - 🔭 Currently building production systems at **RemoteState** — event-driven microservices, serverless pipelines, and data pipelines processing 25K+ requests/day
-- 🛠️ Core stack: **Node.js, NestJS, Next.js, React, PostgreSQL, Redis, MongoDB, AWS, GCP**
+- 🛠️ Core stack: **Java, Node.js, NestJS, Next.js, React, PostgreSQL, Redis, MongoDB, AWS, GCP**
 - 🧠 Recent work: GCP Pub/Sub + Cloud Run notification service (99.9% delivery reliability), AWS Lambda scraper pipelines (10K+ listings/day), Vertex AI document classification
 - 📝 I write about backend engineering, APIs, and infrastructure on [LinkedIn](https://www.linkedin.com/in/ahtesham-siddiqui-388aa3220)
 - 🌱 Exploring distributed systems (Redis Streams, leader election) and open-source contributions
@@ -13,21 +13,34 @@ Full Stack SDE building scalable backend systems and event-driven architectures.
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**
+**Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 **Databases & Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Cloud & Infra**
+**Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**GenAI**
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 ---
 
