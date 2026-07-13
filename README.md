@@ -54,6 +54,14 @@ Full Stack SDE building scalable backend systems and event-driven architectures.
 
 ---
 
+### 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/itsAhtesham)
+
+Also solving on [Codeforces](https://codeforces.com/profile/itsahtesham) — building up DSA fundamentals.
+
+---
+
 ### 🚀 Featured Projects
 
 - **Distributed Task Scheduler** — Built with Redis Streams and leader election for fault-tolerant, distributed job scheduling
