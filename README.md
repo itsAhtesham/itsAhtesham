@@ -64,8 +64,8 @@ Also solving on [Codeforces](https://codeforces.com/profile/itsahtesham) — bui
 
 ### 🚀 Featured Projects
 
-- **Distributed Task Scheduler** — Built with Redis Streams and leader election for fault-tolerant, distributed job scheduling
-- **Alpha Chat** — Real-time chat application exploring WebSocket resilience and scalable messaging patterns
+- **[Distributed Task Scheduler](https://github.com/itsAhtesham/distributed-task-scheduler)** — Built with Redis Streams and leader election for fault-tolerant, distributed job scheduling
+- **[Alpha Chat](https://github.com/itsAhtesham/Chat-App-Backend)** — Real-time chat application exploring WebSocket resilience and scalable messaging patterns
 - **Notification Microservice** — GCP Pub/Sub + Cloud Run pipeline delivering 99.9% reliability in production
 
 ---
