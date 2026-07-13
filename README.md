@@ -1,3 +1,9 @@
+### 🟢 Currently open to work
+
+I'm actively looking for **Backend / Full Stack SDE-1 / SDE-2** roles. If you're hiring or know a good fit, let's connect on [LinkedIn](https://www.linkedin.com/in/ahtesham-siddiqui-388aa3220) or check out my [portfolio](https://ahtesham-siddiqui.in).
+
+![Open to Work](https://img.shields.io/badge/Open_to_Work-brightgreen?style=flat&logo=github&logoColor=white)
+
 # Hi, I'm Ahtesham 👋
 
 Full Stack SDE building scalable backend systems and event-driven architectures.
