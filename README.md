@@ -70,12 +70,14 @@ Also solving on [Codeforces](https://codeforces.com/profile/itsahtesham) — bui
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 ![Ahtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAhtesham&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAhtesham&layout=compact)
 
 ---
+-->
 
 ### 🔗 Connect with me
 
